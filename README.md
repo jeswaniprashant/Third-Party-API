@@ -1,1 +1,2 @@
-# Third-Party-API
+# Google API
+Google API implemented via OAuth.
